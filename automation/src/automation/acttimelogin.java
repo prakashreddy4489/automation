@@ -7,7 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class acttime {
+public class acttimelogin {
 	public static void main(String[] args) {
 	System.setProperty("webdriver.chrome.driver" , "C:\\drivers1\\chromedriver.exe");
 	ChromeDriver c1=new ChromeDriver();
